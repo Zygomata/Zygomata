@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arjun, an <a href="linkedin.com/in/arjun-i-gupta">IT Professional</a>☺</h1>
+<h1>Hi, I'm Arjun, an <a href="linkedin.com/in/arjun-i-gupta">IT Professional, Blogger</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
