@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: linkedin.com/in/arjun-i-gupta
+[linkedin]: https://linkedin.com/in/arjun-i-gupta
