@@ -14,7 +14,8 @@
 <h2>🕸️ Web Developer/ UI/UX Designer Projects:</h2
 
 - <b>API World Hackathon Winner</b>
-- - <b>osTicket (Help Desk Ticketing System)</b
+
+- <b>Sensei Center</b>
                                         
 <h2>🤳Connect with me:</h2>
 
