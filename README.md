@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arjun, an <a href="linkedin.com/in/arjun-i-gupta">IT Professional, </a> <a href="https://github.com/Zygomata/My-IT-Journey/">Blogger </a> and Web Developer ☺</h1>
+<h1>Hi, I'm Arjun, an <a href="https://linkedin.com/in/arjun-i-gupta">IT Professional, </a> <a href="https://github.com/Zygomata/My-IT-Journey/">Blogger </a> and Web Developer ☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
