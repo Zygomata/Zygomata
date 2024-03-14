@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Zygomata/azure-network-protocols)
 
 
-<h2>🕸️ Web Developer/ UI/UX Designer Projects:</h2
+<h2>🕸️ Web Developer & UI/UX Designer Projects:</h2
 
 - <b>API World Hackathon Winner</b> (Front end & UI/UX)
   - [Picsart Challenge API World Hackathon Winners](https://github.com/Fuzzkatt/PicsartChallengeAttempt1) 
