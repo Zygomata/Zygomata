@@ -3,7 +3,7 @@
 <h2>📈 Data Analyst Projects:</h2>
 
 - <b>Patient Readmission in Hospitals</b>
-  - (https://github.com/Zygomata/Patient-Readmission)
+  - [Patient Readmission](https://github.com/Zygomata/Patient-Readmission)
  
 
 
