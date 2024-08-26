@@ -1,5 +1,12 @@
 <h1>Hi, I'm Arjun, a <a href="https://linkedin.com/in/arjun-i-gupta"> Data Analyst and Web Developer ☺</h1>
 
+<h2>📈 Data Analyst Projects:</h2>
+
+- <b>Patient Readmission in Hospitals</b>
+  - (https://github.com/Zygomata/Patient-Readmission)
+ 
+
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
