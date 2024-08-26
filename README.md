@@ -4,8 +4,12 @@
 
 - <b>Patient Readmission in Hospitals</b>
   - [Patient Readmission](https://github.com/Zygomata/Patient-Readmission)
+    
+- <b>Mobile Game A/B testing result</b>
+  - [Testing Results](https://github.com/Zygomata/Mobile-Game-A-B-testing-result)
  
-
+- <b>Reduced Traffic Mortality</b>
+  - [Traffic Mortality](https://github.com/Zygomata/Reduced-Traffic-Mortality)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
