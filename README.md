@@ -27,15 +27,9 @@
 
 - <b>API World Hackathon Winner</b> (Front end & UI/UX)
   - [Picsart Challenge API World Hackathon Winners](https://github.com/Fuzzkatt/PicsartChallengeAttempt1)
-    
 - <b>Sensei Center</b> (UI/UX)
   - [Sensei Center project](https://www.figma.com/file/BnlF5EEZSmrBBQmsWEjtMc/SuS-Website?type=design&node-id=1-2321&mode=design&t=jyUbQbpJBrx3DS1V-0) 
                                         
 <h2>🤳Connect with me:</h2>
-
-
 [<img align="left" alt="Arjun | LinkedIn" width="8%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
 [linkedin]: https://linkedin.com/in/arjun-i-gupta
