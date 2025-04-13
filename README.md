@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arjun, a <a href="https://linkedin.com/in/arjun-i-gupta"> Data Analyst and Web Developer ☺</h1>
+<h1>Hi, I'm Arjun, a <a href="https://linkedin.com/in/arjun-i-gupta"> Data Analyst, Sport Performance Specialist & Web Developer ☺</h1>
 
 <h2>📈 Data Analyst Projects:</h2>
 
