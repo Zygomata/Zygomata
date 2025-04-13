@@ -1,13 +1,10 @@
 <h1>Hi, I'm Arjun, a <a href="https://linkedin.com/in/arjun-i-gupta"> Data Analyst, Sport Performance Specialist & Web Developer ☺</h1>
 
 <h2>📈 Data Analyst Projects:</h2>
-
 - <b>Patient Readmission in Hospitals</b>
   - [Patient Readmission](https://github.com/Zygomata/Patient-Readmission)
-    
 - <b>Mobile Game A/B testing result</b>
   - [Testing Results](https://github.com/Zygomata/Mobile-Game-A-B-testing-result)
- 
 - <b>Reduced Traffic Mortality</b>
   - [Traffic Mortality](https://github.com/Zygomata/Reduced-Traffic-Mortality)
 
